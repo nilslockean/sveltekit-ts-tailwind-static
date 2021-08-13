@@ -1,0 +1,1 @@
+# sveltekit-ts-tailwind-static
